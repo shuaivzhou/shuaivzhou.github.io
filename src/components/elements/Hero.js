@@ -28,10 +28,8 @@ function Hero() {
           <h2 className="subtitle">
             {Resume.basics.location.region}, {Resume.basics.location.country}
           </h2>
-        </div>
-      </div>
-      <div className="hero-body" style={{ paddingBottom: "0px" }}>
-        <div className="container interests">
+          {/* <div className="column" style={{padding: "30px"}}></div> */}
+          <div className="container interests" style={{padding: "0px"}}>
           {Resume.basics.profiles.map((value, index) => {
             return (
               <div key={index} className="column has-text-centered">
@@ -48,6 +46,7 @@ function Hero() {
               </div>
             );
           })}
+        </div>
         </div>
       </div>
     </section>
