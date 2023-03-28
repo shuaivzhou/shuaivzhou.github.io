@@ -37,6 +37,9 @@ html {
 }
 .skill-icon {
     padding: 20px;
+}.hero-particle {
+  width: 100%;
+  height: 100%;
 }
 
 
@@ -57,7 +60,7 @@ canvas {
 #particles-js {
   position: absolute;
   width: 100%;
-  height: 100%;
+  height: 105%;
   background-color: #b61924;
   background-image: url("");
   background-repeat: no-repeat;
