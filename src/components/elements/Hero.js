@@ -15,7 +15,7 @@ function Hero() {
   // const tw = require("typewriterjs");
   // tw.startTypist("typewriterId", ["an engineer", "a product manager", "a developer", "a trader", "a language lover", "a content creator", "a Lineup Larry"]);
   return (
-    <section className="hero is-dark is-fullheight has-bg-image">
+    <section className="hero is-dark is-fullheight">
       <div className="hero-head">
         <NavBar />
       </div>
@@ -30,7 +30,7 @@ function Hero() {
           </h2>
         </div>
       </div>
-      <div className="hero-body" style={{ paddingBottom: "10px" }}>
+      <div className="hero-body" style={{ paddingBottom: "0px" }}>
         <div className="container">
           {Resume.basics.profiles.map((value, index) => {
             return (
@@ -48,7 +48,6 @@ function Hero() {
               </div>
             );
           })}
-          <div className="column"></div>
         </div>
       </div>
     </section>
