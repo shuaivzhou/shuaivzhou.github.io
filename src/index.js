@@ -19,7 +19,7 @@ if (window.matchMedia("(max-width: 1200px)").matches) {
 const tw = require("typewriterjs");
 tw.startTypist("typewriterId", ["an engineer", "a product manager", "a developer", "a trader", "a language lover", "a content creator", "a Lineup Larry"]);
 
-const particlesJS = require("particles.js");
-particlesJS.load('particles-js', './particles.json', function() {
-  console.log('callback - particles.js config loaded');
-});
+// const particlesJS = require("particles.js");
+// particlesJS.load('particles-js', './particles.json', function() {
+//   console.log('callback - particles.js config loaded');
+// });

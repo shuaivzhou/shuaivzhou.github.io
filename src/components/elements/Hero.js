@@ -15,7 +15,7 @@ function Hero() {
   // const tw = require("typewriterjs");
   // tw.startTypist("typewriterId", ["an engineer", "a product manager", "a developer", "a trader", "a language lover", "a content creator", "a Lineup Larry"]);
   return (
-    <section className="hero is-dark is-fullheight">
+    <section className="hero is-dark is-fullheight has-bg-image">
       <div className="hero-head">
         <NavBar />
       </div>
