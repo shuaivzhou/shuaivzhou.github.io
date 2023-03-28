@@ -34,81 +34,78 @@
   },
   "work": [
     {
-      "company": "feedzai",
-      "position": "Software Engineer",
-      "website": "https://feedzai.com",
-      "startDate": "2021-04-26",
-      "endDate": "",
-      "summary": "The first startup in my professional path, feedzai - a Unicorn 🦄 - fighting financial crime and fraude",
-      "highlights": []
-    },
-    {
-      "company": "Self-employed",
-      "position": "Software development consultant",
+      "company": "Verizon",
+      "position": "Software Engineer Intern",
       "website": "https://jcoelho93.netlify.com",
-      "startDate": "2021-01-15",
+      "startDate": "2023-06-05",
       "endDate": "",
-      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
+      "summary": "Incoming internship.",
       "highlights": []
     },
     {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
+      "company": "Picoyune",
+      "position": "Software Engineer/Product Management Intern",
+      "website": "https://www.picoyune.com/",
+      "startDate": "2022-01-15",
+      "endDate": "2022-09-02",
+      "summary": "Developed skills in NumPy, Matplotlib, tkinter, multithreading, and more to build an application that offloads data from our mercury sensors and processes the data for the customers; ran lab tests to better understand the product while also testing the accuracy of our sensors, and worked closely with our clients working in ASGM as well as other fields/big companies to improve the UI/UX of the GUI. Spearheaded the customer discovery for our new product by conducting research in the mercury market on our competitors as well as potential clients, interviewing companies/parties interested in the mercury field (from research to environmental services alike), and investigating the rise in related products in foreign countries.",
+      "highlights": []
+    },
+    {
+      "company": "University of California, Berkeley",
+      "position": "Student",
+      "website": "https://www.berkeley.edu/",
+      "startDate": "2020-08-19",
+      "endDate": "2024-05-10",
+      "summary": "Began education at Berkeley, majoring in Computer Science and Mathematics.",
+      "highlights": []
+    },
+    {
+      "company": "SpiderSmart Learning Center",
+      "position": "Teacher/Teaching Assistant",
+      "website": "https://www.spidersmart.com/sugar-land/",
+      "startDate": "2020-01-15",
+      "endDate": "2020-07-15",
+      "summary": "Worked as a teaching assistant for teaching elementary and middle school students competition-level mathematics. Acted as teacher for teaching Science Bowl topics to elementary and middle school students and held mock competitions.",
+      "highlights": []
+    },
+    {
+      "company": "Rice University",
+      "position": "Researcher",
       "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "2020-10-10",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
+      "startDate": "2019-08-15",
+      "endDate": "2020-05-10",
+      "summary": "Conducted research on graph traversal heuristics; developed skills in MATLAB, research, and presentation.",
       "highlights": []
     },
     {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
-      "highlights": []
-    },
-    {
-      "company": "Empresa de Electricidade da Madeira",
-      "position": "IT Support Technician",
-      "website": "https://www.eem.pt",
-      "startDate": "2015-03-01",
-      "endDate": "",
-      "summary": "My first real work experience. Interning as an IT Support Technician I was able to learn and explore way more than the workings of a big IT Infrastructure. I got to work with PowerShell scripting, PHP and email marketing.",
+      "company": "Physics Club",
+      "position": "Founder",
+      "website": "",
+      "startDate": "2019-01-15",
+      "endDate": "2020-05-10",
+      "summary": "Founder and lecturer of my high school's Physics Club. Provided students with a place to solidify their foundation physics skills, as well as meet like-minded peers with an interest in physics, learn higher level content, and prepare for national-level physics competitions. Organized and coordinated volunteering at regional middle schools to foster a passion for physics within younger students.",
       "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
+      "institution": "University of California, Berkeley",
+      "area": "Computer Science and Mathematics",
       "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "startDate": "2020-08-19",
+      "endDate": "2024-05-10",
       "courses": [
-        "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
+        "Data Structures",
+        "Computer Architecture",
+        "Probability and Random Processes",
+        "Optimization Models in Engineering",
+        "Efficient Algorithms and Intractable Problems",
+        "Artificial Intelligence",
+        "Computer Graphics",
+        "Multivariable Calculus",
+        "Linear Algebra",
+        "Abstract Algebra"
       ]
     }
   ],
@@ -116,27 +113,27 @@
     {
       "name": "AWS",
       "x_icon": "fa-brands fa-aws",
-      "x_description": "EC2, VPC, Cognito, CloudFormation, RDS, S3, CloudFront, IAM and others"
-    },
-    {
-      "name": "Infrastructure as Code",
-      "x_icon": "fa-code",
-      "x_description": "Developing and maintaing infrastructure as code with Terraform, Packer and Vagrant"
-    },
-    {
-      "name": "Configuration Management",
-      "x_icon": "fa-gears",
-      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
-    },
-    {
-      "name": "CI/CD",
-      "x_icon": "fa-infinity",
-      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins and GitLab CI"
+      "x_description": "EC2, Cognito"
     },
     {
       "name": "Python",
       "x_icon": "fa-brands fa-python",
-      "x_description": "Writting deployment tools and scripts, and automating all possible tasks with Python"
+      "x_description": ""
+    },
+    {
+      "name": "Java",
+      "x_icon": "fa-brands fa-java",
+      "x_description": ""
+    },
+    {
+      "name": "C++",
+      "x_icon": "fa-brands fa-C-plus-plus",
+      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
+    },
+    {
+      "name": "CI/CD",
+      "x_icon": "fa-brands fa-matworks",
+      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins and GitLab CI"
     },
     {
       "name": "Monitoring",
