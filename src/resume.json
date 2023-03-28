@@ -1,34 +1,34 @@
 {
   "basics": {
-    "name": "José Coelho",
+    "name": "Shuai Victor Zhou",
     "label": "Software Engineer",
-    "picture": "images/jcoelho.webp",
-    "x_pictureFallback": "images/jcoelho.jpg",
-    "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 7 years of experience in Software engineering. I'm currently working as a cloud engineer exploring the AWS world. I’m interested in building distributed, cloud native applications, service management, monitoring and site reliability engineering.",
+    "picture": "images/shuaivzhou.webp",
+    "x_pictureFallback": "images/shuaivzhou.jpg",
+    "x_title": "About Me",
+    "summary": "I'm an undergrad student at UC Berkeley studying Computer Science and Mathematics. I come from a background of competitive math, physics, and engineering. In my free time, I enjoy hiking, learning languages, creating videos, watching shows, and playing poker.",
     "location": {
-      "country": "Portugal",
-      "countryCode": "PT",
-      "region": "Porto"
+      "country": "United States",
+      "countryCode": "USA",
+      "region": "Berkeley"
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
-        "x_icon": "fab fa-2x fa-dev"
+        "network": "GitHub",
+        "username": "shuaivzhou",
+        "url": "https://github.com/shuaivzhou",
+        "x_icon": "fab fa-2x fa-github"
       },
       {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "shuai-zhou-b0474a1b6",
+        "url": "https://www.linkedin.com/in/shuai-zhou-b0474a1b6/",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
-        "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
-        "x_icon": "fab fa-2x fa-github"
+        "network": "Instagram",
+        "username": "sunyeole",
+        "url": "https://www.instagram.com/sunyeole/",
+        "x_icon": "fab fa-2x fa-instagram"
       }
     ]
   },
