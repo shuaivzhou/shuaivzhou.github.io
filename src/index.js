@@ -9,6 +9,13 @@ ReactDOM.render(<App />, document.getElementById("root"));
 // const root = createRoot(container);
 // root.render(<App />)
 
+const timeline = document.getElementById("timelineId");
+const interests = document.getElementById("interestsContainerId");
+if (window.matchMedia("(max-width: 1200px)").matches) {
+    timeline.className = "timeline"
+    interests.outerHTML = ""
+}
+
 const tw = require("typewriterjs");
 tw.startTypist("typewriterId", ["an engineer", "a product manager", "a developer", "a trader", "a language lover", "a content creator", "a Lineup Larry"]);
 

@@ -19,7 +19,7 @@ function Hero() {
       <div className="hero-head">
         <NavBar />
       </div>
-      <div className="column" style={{padding: "50px"}}></div>
+      <div className="column" style={{padding: "30px"}}></div>
       <div className="hero-body">
         <div className="container">
           <p className="subtitle is-5 has-text-weight-light">My name is Victor Zhou.</p>
@@ -31,7 +31,7 @@ function Hero() {
         </div>
       </div>
       <div className="hero-body" style={{ paddingBottom: "0px" }}>
-        <div className="container">
+        <div className="container interests">
           {Resume.basics.profiles.map((value, index) => {
             return (
               <div key={index} className="column has-text-centered">
