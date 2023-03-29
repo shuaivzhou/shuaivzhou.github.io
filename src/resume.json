@@ -36,25 +36,31 @@
     {
       "company": "Verizon",
       "position": "Software Engineer Intern",
-      "website": "https://jcoelho93.netlify.com",
+      "website": "https://www.verizon.com/",
+      "picture": "images/verizon.webp",
+      "pictureFallback": "images/verizon.jpg",
       "startDate": "2023-06-05",
       "endDate": "",
-      "summary": "Incoming internship.",
+      "summary": "Incoming software engineering intern.",
       "highlights": []
     },
     {
       "company": "Picoyune",
       "position": "Software Engineer/Product Management Intern",
       "website": "https://www.picoyune.com/",
+      "picture": "images/picoyune.webp",
+      "pictureFallback": "images/picoyune.jpg",
       "startDate": "2022-01-15",
       "endDate": "2022-09-02",
-      "summary": "Developed skills in NumPy, Matplotlib, tkinter, multithreading, and more to build an application that offloads data from our mercury sensors and processes the data for the customers; ran lab tests to better understand the product while also testing the accuracy of our sensors, and worked closely with our clients working in ASGM as well as other fields/big companies to improve the UI/UX of the GUI. Spearheaded the customer discovery for our new product by conducting research in the mercury market on our competitors as well as potential clients, interviewing companies/parties interested in the mercury field (from research to environmental services alike), and investigating the rise in related products in foreign countries.",
+      "summary": "Built the MA-1 portable mercury detector application from ground up and ran lab tests for the sensors. Worked closely with customers for improving the quality and creating the features to meet their needs. Spearheaded the development and customery discovery for the fluid mercury sensor.",
       "highlights": []
     },
     {
       "company": "University of California, Berkeley",
       "position": "Student",
       "website": "https://www.berkeley.edu/",
+      "picture": "images/berkeley.webp",
+      "pictureFallback": "images/berkeley.jpg",
       "startDate": "2020-08-19",
       "endDate": "2024-05-10",
       "summary": "Began education at Berkeley, majoring in Computer Science and Mathematics.",
@@ -64,6 +70,8 @@
       "company": "SpiderSmart Learning Center",
       "position": "Teacher/Teaching Assistant",
       "website": "https://www.spidersmart.com/sugar-land/",
+      "picture": "images/spidersmart.webp",
+      "pictureFallback": "images/spidersmart.jpg",
       "startDate": "2020-01-15",
       "endDate": "2020-07-15",
       "summary": "Worked as a teaching assistant for teaching elementary and middle school students competition-level mathematics. Acted as teacher for teaching Science Bowl topics to elementary and middle school students and held mock competitions.",
@@ -72,16 +80,20 @@
     {
       "company": "Rice University",
       "position": "Researcher",
-      "website": "https://www.bosch.hu",
+      "website": "https://cmor.rice.edu/",
+      "picture": "images/rice.webp",
+      "pictureFallback": "images/rice.jpg",
       "startDate": "2019-08-15",
       "endDate": "2020-05-10",
-      "summary": "Conducted research on graph traversal heuristics; developed skills in MATLAB, research, and presentation.",
+      "summary": "Conducted research in graph theory at Rice University's Department of Computational and Applied Math under Professor Illya V. Hicks.",
       "highlights": []
     },
     {
       "company": "Physics Club",
       "position": "Founder",
       "website": "",
+      "picture": "images/physics.webp",
+      "pictureFallback": "images/physics.jpg",
       "startDate": "2019-01-15",
       "endDate": "2020-05-10",
       "summary": "Founder and lecturer of my high school's Physics Club. Provided students with a place to solidify their foundation physics skills, as well as meet like-minded peers with an interest in physics, learn higher level content, and prepare for national-level physics competitions. Organized and coordinated volunteering at regional middle schools to foster a passion for physics within younger students.",
@@ -111,54 +123,42 @@
   ],
   "skills": [
     {
-      "name": "AWS",
-      "x_icon": "fa-brands fa-aws",
-      "x_description": "EC2, Cognito"
+      "name": "Frontend",
+      "x_icon": "fas fa-desktop",
+      "x_description": "HTML/CSS, React.js, Expo"
     },
     {
-      "name": "Python",
-      "x_icon": "fa-brands fa-python",
-      "x_description": ""
+      "name": "Backend",
+      "x_icon": "fas fa-code",
+      "x_description": "Python, Java, C, C++, Node.js, MATLAB, R, RISC-V, Golang"
     },
     {
-      "name": "Java",
-      "x_icon": "fa-brands fa-java",
-      "x_description": ""
+      "name": "Other Tools",
+      "x_icon": "fas fa-database",
+      "x_description": "Git, PostgreSQL, AWS, Bitbucket, Docker"
     },
     {
-      "name": "C++",
-      "x_icon": "fa-brands fa-C-plus-plus",
-      "x_description": "Launching, configuring and maintaining cloud environments with Ansible"
-    },
-    {
-      "name": "CI/CD",
-      "x_icon": "fa-brands fa-matworks",
-      "x_description": "Implementing continuous integration and deployment pipelines with Jenkins and GitLab CI"
-    },
-    {
-      "name": "Monitoring",
-      "x_icon": "fa-chart-line",
-      "x_description": "Implementing centralized monitoring solution for cloud environments with Telegraf, InfluxDB and Grafana"
-    },
-    {
-      "name": "Serverless",
-      "x_icon": "fa-bolt",
-      "x_description": "Building reliable and cost efficient systems with Lambda functions and the serverless framework"
-    },
-    {
-      "name": "Containers",
-      "x_icon": "fa-brands fa-docker",
-      "x_description": "Delivering and distributing applications and tools with Docker, docker-compose and kubernetes"
+      "name": "Miscellaneous",
+      "x_icon": "fas fa-dice-d20",
+      "x_description": "Adobe Creative Cloud"
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent speaker"
+      "fluency": "Native"
     },
     {
-      "language": "Portuguese",
-      "fluency": "Native speaker"
+      "language": "Mandarin",
+      "fluency": "Native"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Japanese",
+      "fluency": "Beginner"
     }
   ],
   "certificates": [
@@ -197,20 +197,42 @@
   ],
   "interests": [
     {
-      "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
+      "name": "Language lover",
+      "x_icon": "fa-globe"
     },
     {
-      "name": "Dog lover",
-      "x_icon": "fa-dog"
+      "name": "Poker enthusiast",
+      "x_icon": "fas fa-dice"
     },
     {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
+      "name": "Ping pong enjoyer",
+      "x_icon": "fas fa-table-tennis"
     },
     {
-      "name": "Live in the now",
-      "x_icon": "fa-brain"
+      "name": "Content creator",
+      "x_icon": "fab fa-twitch"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Frontend",
+      "x_icon": "fas fa-desktop",
+      "x_description": "HTML/CSS, React.js, Expo"
+    },
+    {
+      "name": "Backend",
+      "x_icon": "fas fa-code",
+      "x_description": "Python, Java, C, C++, Node.js, MATLAB, R, RISC-V, Golang"
+    },
+    {
+      "name": "Other Tools",
+      "x_icon": "fas fa-database",
+      "x_description": "Git, PostgreSQL, AWS, Bitbucket, Docker"
+    },
+    {
+      "name": "Miscellaneous",
+      "x_icon": "fas fa-dice-d20",
+      "x_description": "Adobe Creative Cloud"
     }
   ]
 }

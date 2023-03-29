@@ -7,7 +7,7 @@ function Timeline() {
   return (
     <div className="timeline is-centered"  id="timelineId">
       <header className="timeline-header">
-        <span className="tag is-medium is-dark">
+        <span className="tag is-medium is-white">
           {new Date().getFullYear()}
         </span>
       </header>
@@ -37,6 +37,10 @@ function Timeline() {
                     })}
                     company={item.company}
                     summary={item.summary}
+                    position={item.position}
+                    website={item.website}
+                    picture={item.picture}
+                    pictureFallback={item.pictureFallback}
                   />
                 );
               })

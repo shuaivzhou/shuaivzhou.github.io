@@ -10,7 +10,7 @@ function Skill(props) {
                     </div>
                     <div className="media-content">
                         <p className="skill-title is-size-6">{props.text}</p>
-                        <p className="has-text-grey is-size-7">{props.description}</p>
+                        <p className="is-size-7">{props.description}</p>
                     </div>
                 </div>
             </div>

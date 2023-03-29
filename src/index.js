@@ -17,7 +17,7 @@ if (window.matchMedia("(max-width: 1200px)").matches) {
 }
 
 const tw = require("typewriterjs");
-tw.startTypist("typewriterId", ["an engineer", "a product manager", "a developer", "a trader", "a language lover", "a content creator", "a Lineup Larry"]);
+tw.startTypist("typewriterId", ["a developer", "a product manager", "an engineer", "a business analyst", "a trader", "a language lover", "a poker shark", "a 名探偵", "a mogul mover", "a content creator", "an IGL prodigy", "a Lineup Larry"], 50);
 
 // const particlesJS = require("particles.js");
 // particlesJS.load('particles-js', './particles.json', function() {

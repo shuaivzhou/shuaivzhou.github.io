@@ -5,7 +5,7 @@ import Resume from "../../resume.json";
 
 function Hero() {
   const typewriterStyle = {
-    color: "orange",
+    color: "#64ffda",
   }
   // new Typewriter('#typewriter', {
   //   strings: ['Hello', 'World'],
