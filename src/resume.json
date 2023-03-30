@@ -52,7 +52,7 @@
       "pictureFallback": "images/picoyune.jpg",
       "startDate": "2022-01-15",
       "endDate": "2022-09-02",
-      "summary": "Built the MA-1 portable mercury detector application from ground up and ran lab tests for the sensors. Worked closely with customers for improving the quality and creating the features to meet their needs. Spearheaded the development and customery discovery for the fluid mercury sensor.",
+      "summary": "Built the MA-1 portable mercury detector application and ran lab tests for the sensors. Worked closely with customers for improving the quality and creating the features to meet their needs. Spearheaded the development and customery discovery for the fluid mercury sensor.",
       "highlights": []
     },
     {
@@ -74,7 +74,7 @@
       "pictureFallback": "images/spidersmart.jpg",
       "startDate": "2020-01-15",
       "endDate": "2020-07-15",
-      "summary": "Worked as a teaching assistant for teaching elementary and middle school students competition-level mathematics. Acted as teacher for teaching Science Bowl topics to elementary and middle school students and held mock competitions.",
+      "summary": "Taught competition-level mathematics and advanced topics in the Science Bowl competition to elementary and middle school students.",
       "highlights": []
     },
     {
@@ -96,7 +96,7 @@
       "pictureFallback": "images/physics.jpg",
       "startDate": "2019-01-15",
       "endDate": "2020-05-10",
-      "summary": "Founder and lecturer of my high school's Physics Club. Provided students with a place to solidify their foundation physics skills, as well as meet like-minded peers with an interest in physics, learn higher level content, and prepare for national-level physics competitions. Organized and coordinated volunteering at regional middle schools to foster a passion for physics within younger students.",
+      "summary": "Founded my high school's Physics Club. Coordinated volunteering at our local middle school with a specially curated curriculum of notes and problem sets.",
       "highlights": []
     }
   ],
@@ -197,8 +197,8 @@
   ],
   "interests": [
     {
-      "name": "Language lover",
-      "x_icon": "fa-globe"
+      "name": "Linguaphile",
+      "x_icon": "fas fa-atlas"
     },
     {
       "name": "Poker enthusiast",

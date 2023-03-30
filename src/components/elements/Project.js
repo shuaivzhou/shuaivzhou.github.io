@@ -3,7 +3,7 @@ import React from "react";
 function Project(props) {
     return (
         <a className="media-content" href={props.website} target="_blank" rel="noopener noreferrer">
-            <div className="card project-card">
+            <div className="project-card">
                 <div className="card-content">
                     <div className="media">
                         <div className="media-left">
