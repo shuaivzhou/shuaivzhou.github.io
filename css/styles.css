@@ -63,10 +63,10 @@ html {
   box-shadow: 0 8px 16px 0 #64ffda;
   color: #64ffda;
 }
-.card-content:hover {
+/* .card-content:hover {
   box-shadow: 0 8px 16px 0 #64ffda;
   color: #64ffda;
-}
+} */
 .project-card {
   height: 100%;
   color: #e6f1ff;
