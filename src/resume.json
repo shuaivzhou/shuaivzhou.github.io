@@ -96,7 +96,7 @@
       "pictureFallback": "images/physics.jpg",
       "startDate": "2019-01-15",
       "endDate": "2020-05-10",
-      "summary": "Founded my high school's Physics Club. Coordinated volunteering at our local middle school with a specially curated curriculum of notes and problem sets.",
+      "summary": "Founded my high school's Physics Club. Coordinated volunteering at our local middle school with a specially-curated curriculum of notes and problem sets.",
       "highlights": []
     }
   ],
@@ -130,7 +130,7 @@
     {
       "name": "Backend",
       "x_icon": "fas fa-code",
-      "x_description": "Python, Java, C++, C, React.js, MATLAB, R, RISC-V Assembly, Golang"
+      "x_description": "Python, Java, C++, C, JavaScript, Node.js, Golang, MATLAB, R, RISC-V Assembly"
     },
     {
       "name": "Other Tools",
@@ -223,26 +223,32 @@
     {
       "name": "Computer Graphics",
       "x_icon": "fas fa-camera-retro",
-      "x_description": "Additional projects for Berkeley's CS184—Computer Graphics course, including a rasterizer, mesh editor, path tracer (with additional features), and cloth physics simulator.",
+      "x_description": "Projects for Berkeley's CS184—Computer Graphics course, including a rasterizer, mesh editor, path tracer (with additional features), and cloth physics simulator.",
       "website": "https://shuaivzhou.github.io/proj-webpage/index.html"
     },
     {
       "name": "Haste Street Capital",
       "x_icon": "fas fa-balance-scale-left",
       "x_description": "Quantitative model trading assets through the Breakout Trading Strategy by initiating a trade when asset price exits its usual range with signs of future volatility increase.",
-      "website": ""
+      "website": "images/hastestreetcapital.png"
     },
     {
       "name": "Stock Beta-Predictor",
       "x_icon": "fas fa-chart-line",
       "x_description": "Predicts stock prices through exploratory data analysis of beta values by regressing against volatility.",
-      "website": ""
+      "website": "https://docs.google.com/document/d/1Q5Zl-Cdv4JjGKB2rZITxTutwDaFiH68JI4T6Wt97hH0/edit?usp=sharing"
     },
     {
       "name": "Asset Trading Sim",
       "x_icon": "fas fa-comment-dollar",
       "x_description": "Implements the mean-reversion theory with the high alpha pairs trading strategy of hedging against market movements.",
-      "website": ""
+      "website": "images/pairstrading.png"
+    },
+    {
+      "name": "Machine Learning Asset Predictor",
+      "x_icon": "fas fa-robot",
+      "x_description": "Utilizes logistic regression and SVM models to predict future asset prices.",
+      "website": "images/mlstockpredictor.png"
     },
     {
       "name": "Cal Me Maybe",

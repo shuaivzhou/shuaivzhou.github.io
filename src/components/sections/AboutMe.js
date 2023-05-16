@@ -18,6 +18,11 @@ function AboutMe() {
         </figure>
         <p className="subtitle is-4 has-text-white has-text-weight-bold">
           {Resume.basics.x_title}
+          <p>
+          <a className="subtitle is-6 has-neon-text" href="https://drive.google.com/file/d/1Dzulk8OWoYkV9XvG4dU16NyCwaWOoPpY/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          Résumé&nbsp;<i className="subtitle is-6 has-text-white fa-solid fa-download"></i>
+          </a>
+          </p>
         </p>
         <p className="subtitle is-5 has-text-white has-text-weight-light summary-text">
           {Resume.basics.summary}

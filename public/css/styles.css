@@ -35,6 +35,12 @@ html {
 .article {
     height: 100%;
 }
+.has-neon-text {
+    color: #64ffda;
+}
+.has-neon-text:hover {
+    color: #1F51FF;
+}
 .skill-card {
     height: 100%;
     color: #64ffda;

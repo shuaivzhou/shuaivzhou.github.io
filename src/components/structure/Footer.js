@@ -19,6 +19,9 @@ function Footer() {
             alt=""
           />
         </p> */}
+        <p>
+          Contact me: <a href = "mailto: svzh@berkeley.edu">svzh@berkeley.edu</a>
+        </p>
       </div>
     </footer>
   );
