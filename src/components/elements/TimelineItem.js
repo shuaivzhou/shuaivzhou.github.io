@@ -9,7 +9,7 @@ function TimelineItem(props) {
       <div className="timeline-content">
         <p className="heading">{props.date}</p>
         <h1 className="title is-4">
-          <a className="title is-4" href={props.website} target="_blank" rel="noopener noreferrer">{props.company}</a>
+          <a className="title is-4" href={props.website} target="_blank" rel="noopener nore  ferrer">{props.company}</a>
           <p className="heading">{props.position}</p>
         </h1>
         <p className="timeline-summary" style={{ maxWidth: "25em" }}>{props.summary}</p>

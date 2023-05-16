@@ -10,7 +10,7 @@ function Footer() {
             <strong>Shuai Victor Zhou</strong>
           </a>
         </p>
-        <p>
+        {/* <p>
           <img
             width="512"
             height="96"
@@ -18,7 +18,7 @@ function Footer() {
             className="bulma-image"
             alt=""
           />
-        </p>
+        </p> */}
       </div>
     </footer>
   );

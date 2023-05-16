@@ -130,7 +130,7 @@
     {
       "name": "Backend",
       "x_icon": "fas fa-code",
-      "x_description": "Python, Java, C, C++, Node.js, MATLAB, R, RISC-V, Golang"
+      "x_description": "Python, Java, C++, C, React.js, MATLAB, R, RISC-V Assembly, Golang"
     },
     {
       "name": "Other Tools",
@@ -215,24 +215,58 @@
   ],
   "projects": [
     {
-      "name": "Frontend",
-      "x_icon": "fas fa-desktop",
-      "x_description": "HTML/CSS, React.js, Expo"
+      "name": "2D Smoke Sim",
+      "x_icon": "fas fa-smog",
+      "x_description": "Simulates realistic smokes with implemented vorticity confinement, buoyancy, shaders, heat mapping, and game effects.",
+      "website": "https://shuaivzhou.github.io/184-final-project/src/index.html"
     },
     {
-      "name": "Backend",
-      "x_icon": "fas fa-code",
-      "x_description": "Python, Java, C, C++, Node.js, MATLAB, R, RISC-V, Golang"
+      "name": "Computer Graphics",
+      "x_icon": "fas fa-camera-retro",
+      "x_description": "Additional projects for Berkeley's CS184—Computer Graphics course, including a rasterizer, mesh editor, path tracer (with additional features), and cloth physics simulator.",
+      "website": "https://shuaivzhou.github.io/proj-webpage/index.html"
     },
     {
-      "name": "Other Tools",
-      "x_icon": "fas fa-database",
-      "x_description": "Git, PostgreSQL, AWS, Bitbucket, Docker"
+      "name": "Haste Street Capital",
+      "x_icon": "fas fa-balance-scale-left",
+      "x_description": "Quantitative model trading assets through the Breakout Trading Strategy by initiating a trade when asset price exits its usual range with signs of future volatility increase.",
+      "website": ""
     },
     {
-      "name": "Miscellaneous",
-      "x_icon": "fas fa-dice-d20",
-      "x_description": "Adobe Creative Cloud"
+      "name": "Stock Beta-Predictor",
+      "x_icon": "fas fa-chart-line",
+      "x_description": "Predicts stock prices through exploratory data analysis of beta values by regressing against volatility.",
+      "website": ""
+    },
+    {
+      "name": "Asset Trading Sim",
+      "x_icon": "fas fa-comment-dollar",
+      "x_description": "Implements the mean-reversion theory with the high alpha pairs trading strategy of hedging against market movements.",
+      "website": ""
+    },
+    {
+      "name": "Cal Me Maybe",
+      "x_icon": "fas fa-comments",
+      "x_description": "Facilitation of verified users finding groups of other users to safely travel alongside at night in Berkeley.",
+      "website": "https://www.youtube.com/watch?v=PhwExPQ_Tks"
+    },
+    {
+      "name": "kudouBot",
+      "x_icon": "fas fa-gamepad",
+      "x_description": "Offers music, games, custom interactions, and other functionalities with more than 2,000 users.",
+      "website": "https://discordbotlist.com/bots/kudou"
+    },
+    {
+      "name": "lcsStocks/vctStocks",
+      "x_icon": "fab fa-fantasy-flight-games",
+      "x_description": "Esports rendition of Fantasy Sports, with a fully functional point system alongside weekly-updated stats, trading, etc.",
+      "website": "https://discordbotlist.com/bots/lcsstonks"
+    },
+    {
+      "name": "Valordle",
+      "x_icon": "far fa-check-square",
+      "x_description": "A rendition of the popular game \"Wordle\" that takes on a twist, with Valorant-themed words (words update daily).",
+      "website": "https://shuaivzhou.github.io/Valordle/"
     }
   ]
 }

@@ -32,6 +32,9 @@ function Projects() {
         <div className="columns">
           {buildProjectsRow(Resume.projects, 4, 8)}
         </div>
+        <div className="columns">
+          {buildProjectsRow(Resume.projects, 8, 12)}
+        </div>
       </div>
     </section>
   );
