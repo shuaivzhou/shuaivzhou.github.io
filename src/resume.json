@@ -34,7 +34,7 @@
   },
   "work": [
     {
-      "company": "Verizon",
+      "company": "Verizon Communications LLC",
       "position": "Software Engineer Intern",
       "website": "https://www.verizon.com/",
       "picture": "images/verizon.webp",
@@ -45,7 +45,7 @@
       "highlights": []
     },
     {
-      "company": "Picoyune",
+      "company": "Picoyune LLC",
       "position": "Software Engineer/Product Management Intern",
       "website": "https://www.picoyune.com/",
       "picture": "images/picoyune.webp",
@@ -78,7 +78,7 @@
       "highlights": []
     },
     {
-      "company": "Rice University",
+      "company": "Rice University CAAM",
       "position": "Researcher",
       "website": "https://cmor.rice.edu/",
       "picture": "images/rice.webp",
@@ -273,6 +273,12 @@
       "x_icon": "far fa-check-square",
       "x_description": "A rendition of the popular game \"Wordle\" that takes on a twist, with Valorant-themed words (words update daily).",
       "website": "https://shuaivzhou.github.io/Valordle/"
+    },
+    {
+      "name": "Py-kémon",
+      "x_icon": "fas fa-dragon",
+      "x_description": "Mimics Nintendo's popular Pokémon games with movement, music, interactions, and a custom-made map made in Tiled.",
+      "website": "images/pokemon.png"
     }
   ]
 }
