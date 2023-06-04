@@ -279,6 +279,12 @@
       "x_icon": "fas fa-dragon",
       "x_description": "Mimics Nintendo's popular Pokémon games with movement, music, interactions, and a custom-made map made in Tiled.",
       "website": "images/pokemon.png"
+    },
+    {
+      "name": "Poker Pot Odds Calculator",
+      "x_icon": "fa-s fa-diamond",
+      "x_description": "Calculates pot odds for a game of Texas Hold'em Poker at the pre-flop, flop, turn, and river.",
+      "website": "images/pokerpotoddscalc.png"
     }
   ]
 }
