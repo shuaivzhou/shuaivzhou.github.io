@@ -19,7 +19,7 @@ function AboutMe() {
         <p className="subtitle is-4 has-text-white has-text-weight-bold">
           {Resume.basics.x_title}
           <p>
-          <a className="subtitle is-6 has-neon-text" href="https://drive.google.com/file/d/1Eyw1XucO87vKBtmuovZHWnDvbl1MMtL9/view?usp=sharing" target="_blank" rel="noreferrer">
+          <a className="subtitle is-6 has-neon-text" href="https://drive.google.com/file/d/1lhKJFX3V1WR0kQ5RGSjVpV8OV8XC6KU2/view?usp=sharing" target="_blank" rel="noreferrer">
           Résumé/CV&nbsp;<i className="subtitle is-6 has-text-white fa-solid fa-download"></i>
           </a>
           </p>

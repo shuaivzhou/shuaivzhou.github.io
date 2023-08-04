@@ -5,7 +5,7 @@
     "picture": "images/shuaivzhou.webp",
     "x_pictureFallback": "images/shuaivzhou.jpg",
     "x_title": "About Me",
-    "summary": "I'm an undergrad student at UC Berkeley studying Computer Science and Mathematics. I come from a background of competitive math, physics, and engineering. In my free time, I enjoy hiking, learning languages, creating videos, watching shows, and playing poker.",
+    "summary": "I'm an undergrad student at UC Berkeley studying Computer Science and Mathematics. I come from a background of competitive math, physics, and engineering. In my free time, I enjoy hiking, running, learning languages, creating videos, watching shows, and playing poker.",
     "location": {
       "country": "United States",
       "countryCode": "USA",
@@ -34,14 +34,25 @@
   },
   "work": [
     {
-      "company": "Verizon Communications LLC",
+      "company": "Verizon Communications Inc.",
       "position": "Software Engineer Intern",
       "website": "https://www.verizon.com/",
       "picture": "images/verizon.webp",
       "pictureFallback": "images/verizon.jpg",
       "startDate": "2023-06-05",
+      "endDate": "2023-08-11",
+      "summary": "Optimized the Verizon fiber loss workflow by creating a tetherless solution, increasing efficiency and accuracy by 35%. Leveraged BLE, FTP, and Cloud data transfer approaches for field technicians, reducing cost of business by $100k+ across 140M+ served customers annually and increasing functional and strategic KPIs as well as UX metrics. Architected and built a scalable end-to-end vendor agnostic system, enabling direct communication with vendor clouds for a centralized platform of configuration IPIDs and OLTS/OTDR tests that removes reliance on third-party APIs.",
+      "highlights": []
+    },
+    {
+      "company": "Berkeley Codeology",
+      "position": "Internal Vice President",
+      "website": "https://codeology.club/#/",
+      "picture": "images/codeology.webp",
+      "pictureFallback": "images/codeology.jpg",
+      "startDate": "2022-01-15",
       "endDate": "",
-      "summary": "Incoming software engineering intern.",
+      "summary": "Management of internal club logistics, working towards a goal of providing opportunities for everyone to explore the tech industry with a supportive community.",
       "highlights": []
     },
     {
@@ -52,7 +63,7 @@
       "pictureFallback": "images/picoyune.jpg",
       "startDate": "2022-01-15",
       "endDate": "2022-09-02",
-      "summary": "Built the MA-1 portable mercury detector application and ran lab tests for the sensors. Worked closely with customers for improving the quality and creating the features to meet their needs. Spearheaded the development and customery discovery for the fluid mercury sensor.",
+      "summary": "Built the MA-1 portable mercury detector application with data analytics and ran lab tests for the sensors. Worked closely with customers for improving the quality and creating the features to meet their needs. Spearheaded the development and customery discovery for the PA-1 fluid mercury sensor.",
       "highlights": []
     },
     {
@@ -85,11 +96,11 @@
       "pictureFallback": "images/rice.jpg",
       "startDate": "2019-08-15",
       "endDate": "2020-05-10",
-      "summary": "Conducted research in graph theory at Rice University's Department of Computational and Applied Math under Professor Illya V. Hicks.",
+      "summary": "Conducted research in hybridized Cₙ-Kₙ IO graphs’ traversal heuristics with their relations to inner and outer nodal degrees at Rice University’s Department of Computational and Applied Math under Professor Illya V. Hicks.",
       "highlights": []
     },
     {
-      "company": "Physics Club",
+      "company": "Clements Physics Club",
       "position": "Founder",
       "website": "",
       "picture": "images/physics.webp",
@@ -135,7 +146,7 @@
     {
       "name": "Other Tools",
       "x_icon": "fas fa-database",
-      "x_description": "Git, PostgreSQL, AWS, Bitbucket, Docker"
+      "x_description": "Git, PostgreSQL, AWS, Bitbucket, Docker, Tiled"
     },
     {
       "name": "Miscellaneous",
@@ -229,7 +240,7 @@
     {
       "name": "Haste Street Capital",
       "x_icon": "fas fa-balance-scale-left",
-      "x_description": "Quantitative model trading assets through the Breakout Trading Strategy by initiating a trade when asset price exits its usual range with signs of future volatility increase.",
+      "x_description": "Quantitative model trading assets through a breakout strategy, leveraging assets that surpass their predetermined resistance level and capitalizing on momentum-driven market movements.",
       "website": "images/hastestreetcapital.png"
     },
     {
